@@ -95,3 +95,4 @@ npm start
 [更新appConf获取方式](https://github.com/wes-lin/Cloud189Checkin/issues/5)
 
 ##Start Test
+##Test
